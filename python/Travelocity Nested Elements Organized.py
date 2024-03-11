@@ -174,7 +174,6 @@ def hotel_pages():
     time.sleep(3)
     #This gets list of all hotel links from previous code
     list2 = driver.find_elements(By.XPATH, "//div[@class='rlqQt _T A']")
-    link = []
     for i in list2:
         link.append(i.find_element(By.TAG_NAME, 'a').get_attribute('href'))
 
@@ -210,14 +209,13 @@ def hotel_reviews(url):
 
 
 #Now do in full Even to avoid the captcha
-attempts = 10
+attempts = 6
 k = 1
 while k < attempts:
     k = k+1
     try:
         link = hotel_pages()
     except:
-        driver.close()
         link = hotel_pages()
     
 
@@ -225,6 +223,7 @@ while k < attempts:
 # In[48]:
 
 
+link = list(set(link))
 link[0]
 
 
