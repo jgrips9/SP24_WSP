@@ -209,6 +209,7 @@ def hotel_reviews(url):
 
 
 #Now do in full Even to avoid the captcha
+link = []
 attempts = 6
 k = 1
 while k < attempts:
@@ -223,7 +224,7 @@ while k < attempts:
 # In[48]:
 
 
-link = list(set(link))
+# link = list(set(link))
 link[0]
 
 
