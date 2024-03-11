@@ -7,6 +7,6 @@ Web Scraping Coding Demo Selenium:
 
 [![Web Scraping Coding Demo Selenium](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u46hzYInfiy9ZaT2NuJfdlnhDuGQaEBF?usp=drive_link)
 
-Web Scraping Coding Demo Selenium:
+Web Scraping Coding Demo Selenium (Travelocity):
 
 [![Web Scraping Example Selenium](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u46hzYInfiy9ZaT2NuJfdlnhDuGQaEBF?usp=drive_link)
