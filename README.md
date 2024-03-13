@@ -10,3 +10,9 @@ Web Scraping Coding Demo Selenium:
 Web Scraping Coding Demo Selenium (Travelocity):
 
 [![Web Scraping Example Selenium](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12DPw4907fWRwKi21Lsarx6L4GMO3HPyQ?usp=sharing)
+
+HTML Helpful Links  
+[![HTML Tags, elements, Attributes]](https://www.geeksforgeeks.org/tags-vs-elements-vs-attributes-in-html/)  
+
+HTML Attributes List  
+[![HTML Attributes List]](https://www.w3schools.com/tags/ref_attributes.asp)
